@@ -32,6 +32,9 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
+    '@nuxtjs/axios',
+    '@nuxtjs/fontawesome',
+    '@nuxtjs/bootstrap-vue',
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
